@@ -1,7 +1,8 @@
-# React Vite App
+# Jarurat Care Website
 
-A modern React application built with Vite for fast development and optimized builds.
+# Live Project
 
+[Live Website](https://jarurat-care-f1sgrrm36-pc286s-projects.vercel.app/)
 
 ## Prerequisites
 
