@@ -2,7 +2,7 @@
 
 # Live Project
 
-[Live Website](https://jarurat-care-f1sgrrm36-pc286s-projects.vercel.app/)
+[Live Website](https://jarurat-care-henna.vercel.app/)
 
 ## Prerequisites
 
